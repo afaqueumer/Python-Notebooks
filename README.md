@@ -15,3 +15,17 @@ These notebooks does not seek to be comprehensive and cover every dimensions. In
   - Dictionary
   - Tuples
   - Sets
+## Operators in Python
+  - Arithmetic operators
+  - Assignment operators
+  - Comparison operators
+  - Logical operators
+  - Identity operators
+  - Membership operators
+  - Bitwise operators
+ ## Python Statements/Control Flow
+  - if - elif - else 
+  - break - continue
+  - loops (for - while)
+ 
+  
