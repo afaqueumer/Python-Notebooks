@@ -27,5 +27,10 @@ These notebooks does not seek to be comprehensive and cover every dimensions. In
   - if - elif - else 
   - break - continue
   - loops (for - while)
+  ## Error Handling
+  - try - except
+  - try - except - else
+  - try - except - else - finally
+  - raise
  
   
