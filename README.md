@@ -9,13 +9,13 @@ These notebooks does not seek to be comprehensive and cover every dimensions. In
 📌 Read more : https://docs.python.org/3/
 ***
 
-## Objects & Data Structures
+## 1️⃣ Objects & Data Structures
   - Strings
   - Lists
   - Dictionary
   - Tuples
   - Sets
-## Operators in Python
+## 2️⃣ Operators in Python
   - Arithmetic operators
   - Assignment operators
   - Comparison operators
@@ -23,14 +23,18 @@ These notebooks does not seek to be comprehensive and cover every dimensions. In
   - Identity operators
   - Membership operators
   - Bitwise operators
- ## Python Statements/Control Flow
+ ## 3️⃣ Python Statements/Control Flow
   - if - elif - else 
   - break - continue
   - loops (for - while)
-  ## Error Handling
+  ## 4️⃣ Error Handling
   - try - except
   - try - except - else
   - try - except - else - finally
   - raise
- 
+ ## 5️⃣ Functions & Methods
+  - function with no return
+  - function with single/multiple return
+  - parameters vs arguments
+  - function vs methods
   
