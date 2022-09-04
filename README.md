@@ -23,18 +23,25 @@ These notebooks does not seek to be comprehensive and cover every dimensions. In
   - Identity operators
   - Membership operators
   - Bitwise operators
- ## 3️⃣ Python Statements/Control Flow
+## 3️⃣ Python Statements/Control Flow
   - if - elif - else 
   - break - continue
   - loops (for - while)
-  ## 4️⃣ Error Handling
+## 4️⃣ Error Handling
   - try - except
   - try - except - else
   - try - except - else - finally
   - raise
- ## 5️⃣ Functions & Methods
+## 5️⃣ Functions & Methods
+  - document strings (docstring)
   - function with no return
   - function with single/multiple return
   - parameters vs arguments
   - function vs methods
+  - *args vs **kwargs
+## 6️⃣ Decorators
+  - function as objects 
+  - function as an argument
+  - returning function from a function
+  - wrapper function - decorators
   
