@@ -53,5 +53,14 @@ These notebooks does not seek to be comprehensive and cover every dimensions. In
   - filter()
   - reduce()
   - lambda expressions
+  
+  ## 8️⃣ OOP in Python
+  - Objects
+  - Class
+  - Attribute vs Method
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
  
   
